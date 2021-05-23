@@ -1,11 +1,3 @@
-fileFormatVersion: 2
-guid: c5617dffeb9944fa3a50334e9f9f8c5e
-labels:
-- Lowpoly
-- Shader
-- Water
-ShaderImporter:
-  defaultTextures: []
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a82f07f0398324c0a8a1e5b06463ff5f4662f4443313f6db825fdb74c267518
+size 200

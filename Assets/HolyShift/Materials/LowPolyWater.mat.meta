@@ -1,10 +1,3 @@
-fileFormatVersion: 2
-guid: dba33a2bf8b23400bacf323fc2816a51
-labels:
-- Lowpoly
-- Shader
-- Water
-NativeFormatImporter:
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:47866285dd16cf5b064d66a7d1569ed54c3610d03ddeac41332a365b32a37bbc
+size 183
